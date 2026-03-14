@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "stationx-plugins",
+  "description": "Public Claude Code plugins from StationX - cybersecurity education and development tools",
+  "owner": {
+    "name": "Nathan House",
+    "email": "nathan@stationx.net"
+  },
+  "plugins": []
+}
